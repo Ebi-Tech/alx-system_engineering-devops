@@ -1,4 +1,3 @@
 #!/bin/bash
 file /tmp/School
-file -C -m school.mgc
 file -m school.mgc
