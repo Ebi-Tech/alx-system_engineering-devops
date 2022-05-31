@@ -1,2 +1,2 @@
-echo "#!/bin/bash" | rot13
-echo 'echo "ASCII" | rot13' | rot13
+#!/bin/bash
+echo "ASCII" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
